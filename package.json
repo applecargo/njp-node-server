@@ -1,0 +1,28 @@
+{
+  "name": "njp-node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app-https.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/applecargo/njp-node-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/applecargo/njp-node-server/issues"
+  },
+  "homepage": "https://github.com/applecargo/njp-node-server#readme",
+  "dependencies": {
+    "binaryjs": "^0.2.1",
+    "express": "^4.15.3",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "sqlite3": "^3.1.8",
+    "wav": "^1.0.1"
+  }
+}
